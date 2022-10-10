@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -i 'word' /etc/ssh/sshd_config
